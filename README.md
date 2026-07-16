@@ -1,9 +1,9 @@
 
-# Registro de Alimentación 
+# Registro de Alimentación #
 
 Aplicación de escritorio desarrollada en Python para el control mensual de alimentación por cliente.
 
-##Funcionalidades
+## Funcionalidades ##
 - Calendario mensual interactivo
 - Registro de desayuno, almuerzo y comida
 - Generación de reportes en PDF
@@ -11,7 +11,7 @@ Aplicación de escritorio desarrollada en Python para el control mensual de alim
 - Pantalla de carga (loading)
 - Ventana "Acerca de"
 
-## Tecnologías
+## Tecnologías ##
 - Python
 - Tkinter
 - ReportLab
